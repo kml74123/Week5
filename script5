@@ -1,0 +1,4 @@
+#!bin/bash
+
+echo "look at the boot image"
+cat /proc/cmdline
